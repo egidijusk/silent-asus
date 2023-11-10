@@ -14,3 +14,5 @@ To keep the audio system active, *Silent ASUS.exe* plays a silent audio file in 
 2.  Paste *Silent ASUS.exe* into the Windows Startup folder located at `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup`.
 
 3.  From now on, *Silent ASUS.exe* will automatically start when Windows boots up, and you can find the app running in the taskbar.
+
+4.  If you want the app to not be shown in the taskbar, download a version of the app that runs in the background: [Silent ASUS (background).exe](https://github.com/egidijusk/silent-asus/raw/main/Silent%20ASUS%20(background).exe).
